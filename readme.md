@@ -8,6 +8,6 @@ You can find the error message in the page title!
 
 #### Whyyy?
 
-Just an inside joke taken a bit too far, move along please, nothing to see here.
+**Please do NOT use this.** It's just an inside joke, nothing to see here.
 
 Image by Symfony (https://github.com/symfony/symfony)
