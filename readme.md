@@ -1,4 +1,4 @@
-Bring the error reporting in your Laravel application to the next level with this beautiful error screen. This package supports auto-discovery, so installing it is as simple as `composer require its/laravel-boo`.
+Bring the error reporting in your Laravel application to the next level with this beautiful error screen. This package supports auto-discovery, so installing it is as simple as `composer require itsgoingd/laravel-boo`.
 
 ![screenshot](http://abyss.shadowfall.eu/github/laravel-boo.png)
 
